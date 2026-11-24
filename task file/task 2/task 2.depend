@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794384871 source:c:\users\hp\desktop\task file\task 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
